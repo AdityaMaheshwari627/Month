@@ -1,1 +1,1 @@
-.# Month
+# Month
